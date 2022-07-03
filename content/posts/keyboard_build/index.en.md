@@ -6,7 +6,7 @@ draft: false
 author: "Stephon Parker"
 authorLink: "https://stephonp.com"
 description: ""
-images: ["featured-image.png"]
+images: [featured-image.png]
 resources:
 - name: "featured-image"
   src: "featured-image.png"
@@ -17,5 +17,5 @@ categories: ["Blog Post"]
 hiddenFromHomePage: false
 
 toc:
-  enable: false
+  enable: false 
 ---
