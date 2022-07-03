@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["blog"]
+tags: ["blog", "tech"]
 categories: ["Blog Post"]
 
 hiddenFromHomePage: false
