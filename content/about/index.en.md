@@ -9,7 +9,7 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](../assets/images/headshot.jpg)
+![Hugo Theme LoveIt](/site-images/headshot.jpg)
 
 Hello, my name is Stephon Parker and I’m an Engineering Manager based in the New York State Area. My goal is to work with others to build cool and interesting projects while educating others on the value of a well built application. I have experience in C#, Java, and Python with an extensive background in .NET Framework and .NET Core.
 
