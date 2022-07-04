@@ -6,7 +6,7 @@ draft: false
 author: "Stephon Parker"
 authorLink: "https://stephonp.com"
 description: "This is the first post of my new portfolio built on Hugo."
-images: ["featured-image.png"]
+images: [featured-image.png]
 resources:
 - name: "featured-image"
   src: "featured-image.png"
