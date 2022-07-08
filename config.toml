@@ -125,6 +125,8 @@ enableEmoji = true
       [languages.en.params.social]
         GitHub = "stephondoestech"
         Twitter = "stephondoestech"
+        Linkedin = "stephondoestech"
+        Medium = "@stephondoestech"
        # Instagram = "xxxx"
        # Facebook = "xxxx"
        # Telegram = "xxxx"
