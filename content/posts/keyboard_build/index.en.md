@@ -5,7 +5,7 @@ lastmod: 2022-07-02T16:40:37-04:00
 draft: false
 author: "Stephon Parker"
 authorLink: "https://stephonp.com"
-description: ""
+description: "Here's a general look at my process for choosing what I'm going to use to build my keyboards."
 images: [featured-image.png]
 resources:
 - name: "featured-image"
